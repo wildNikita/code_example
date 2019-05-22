@@ -1,0 +1,4 @@
+﻿  StrassenMethod.cpp
+c:\users\megab\documents\github\code_example\strassenmethod\strassenmethod\strassenmethod.cpp(78): warning C4101: tmp: неиспользованная локальная переменная
+c:\users\megab\documents\github\code_example\strassenmethod\strassenmethod\strassenmethod.cpp(226): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  StrassenMethod.vcxproj -> C:\Users\megab\Documents\GitHub\code_example\StrassenMethod\Debug\StrassenMethod.exe
